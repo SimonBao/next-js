@@ -1,0 +1,26 @@
+{
+  "name": "learn-next-javascript",
+  "version": "1.0.0",
+  "description": "This repository is used to learn next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonbao/next-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonbao/next-js/issues"
+  },
+  "homepage": "https://github.com/simonbao/next-js#readme",
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
